@@ -663,5 +663,4 @@ forever(function () {
             game.over(false)
         }
     }
-    P1.sayText(P1.y)
 })
