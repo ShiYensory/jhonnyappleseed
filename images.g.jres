@@ -1,0 +1,17 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPD//w8AAAAADwAA8AAAAPAAAAAADwAA8AAAAAAPAADwAAAAAA8AAPAAAP8ADwAA8AAP8AAPAADwAADwAA8AAAAPAPDwAAAAAPD//w8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Person Right"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPD//w8AAAAADwDw8AAAAPAAAPAADwAA8AAP8AAPAADwAAD/AA8AAPAAAAAADwAA8AAAAAAPAADwAAAAAA8AAAAPAADwAAAAAPD//w8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Person Right0"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
